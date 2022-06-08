@@ -1,4 +1,4 @@
-Welcome to my new dbt project!
+Welcome to your new dbt project!
 
 ### How to run this project 
 ### About the project
